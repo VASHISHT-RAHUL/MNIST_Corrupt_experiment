@@ -1,4 +1,6 @@
 MNIST Corrupt Experiment
+
+
 |true training data  | Corr Training Data | Test Accuracy | Test Accuracy 0-1 | Total Training Data       |   Training Accuracy      |
 | ------------------ | ------------------ | ------------- | ----------------- | ------------------------- | ------------------------ |
 | 500   | 47335  | 19  | 90  |  47835  | 100 |
@@ -10,8 +12,3 @@ MNIST Corrupt Experiment
 | 12665 | 47335  | 20  | 99  | 60000   | 100 |
 
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
