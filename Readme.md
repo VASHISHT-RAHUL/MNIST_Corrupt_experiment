@@ -1,3 +1,17 @@
+
+
+Hypothesis 1: How does attention models work in deep learning?
+The goal here is to understand the concept of attention models
+In these set of experiments we generate a dataset such that a bag of instances is assigned a single label. 
+
+
+
+
+Hypothesis 2: Does Adagrad perform layerwise training?
+
+
+Hypothesis 3: How does the noise affects generalization performance in overparameterized deep models?  
+
 MNIST Corrupt Experiment
 
 
